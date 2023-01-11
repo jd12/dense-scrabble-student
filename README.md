@@ -53,7 +53,7 @@ winner: now   score 2.0   Line number: 1
 -------------------------------
 enter file name
  HeartOfDarkness.txt
-winner: buzz   score 6.0   Line number: 759
+winner: buzz   score 6.0   Line number: 1517
 ```
 
 ## Tips:
